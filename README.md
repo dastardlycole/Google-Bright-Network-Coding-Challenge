@@ -1,3 +1,5 @@
+# My submission for the challenge
+I choose to use python for my submission. It is a command line version of youtube.
 # Youtube Challenge - Python
 The Python Youtube Challenge uses Python3. 
 The below commands use Python3 specifically, to account for users that might 
